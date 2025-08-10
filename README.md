@@ -76,23 +76,6 @@ Shipping-Cost-Prediction/
 └── LICENSE                   # Project license (MIT)
 ```
 
-## Flow Charts
-
-See images in the `flowchart/` and `codeflow/` directories.
-
-## Code Flow
-
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Data%20Ingestion%20Code%20Flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/DataTransformation%20Code%20Flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/DataValidation%20Code%20Flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Model%20Evaluation%20Code%20Flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Model%20predictor%20Code%20Flow.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/ModelPusher%20Code%20Flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/ModelTrainer%20Code%20Flow.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Training%20pipeline%20cofde%20flow_2.png)
-![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/videos/Shipping%20Cost%20Prediction.mp4)
-
----
 
 ## Setup and Installation
 
@@ -336,5 +319,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 - Akshat Garg - add your preferred contact info
-#   S h i p p i n g - C o s t - P r e d i c t i o n  
+#   S h i p p i n g - C o s t - P r e d i c t i o n 
+ 
  
